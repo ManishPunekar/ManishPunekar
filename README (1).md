@@ -444,18 +444,30 @@ open_to:
 
 <p align="center">
 
-## 💜 Building intelligent software that creates real-world impact.
+---
 
-*Always learning. Always building. Always improving.*
+<h2 align="center">💜 Thanks for Visiting!</h2>
 
-⭐ **If you like my work, consider starring my repositories!**
+<p align="center">
+
+Building intelligent AI systems that solve real-world problems.
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=120&section=footer"/>
+<b>AI • Machine Learning • Generative AI • Open Source</b>
 
 </p>
 
+<p align="center">
 
+⭐ Feel free to explore my projects, connect with me, or collaborate on something exciting.
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,50:7C3AED,100:9333EA&section=footer"/>
+
+</p>
