@@ -442,29 +442,16 @@ open_to:
 
 ---
 
-<p align="center">
-
----
----
-
 <div align="center">
 
-```bash
-$ whoami
+## 💜 Thanks for Visiting!
 
-Manish Punekar
+Building intelligent AI systems that solve real-world problems.
 
-AI Engineer
+**AI Engineer • Machine Learning • Generative AI**
 
-$ status
+⭐ Open to collaborations, internships, and open source.
 
-✔ Learning
-✔ Building
-✔ Innovating
-
-$ echo "Thanks for visiting!"
-```
-
-⭐ Happy Coding!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!+🚀;See+you+again!+💜" />
 
 </div>
