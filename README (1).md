@@ -8,15 +8,15 @@
 </p>
 <p align="center">
 
-<a href="https://github.com/hnimje14">
+<a href="https://github.com/ManishPunekar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harshalnimje/">
+<a href="https://www.linkedin.com/in/manish-punekar-3147a5383/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshalnimje1006@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manishpunekar22@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </p>
@@ -424,20 +424,20 @@ open_to:
 
 # 📬 Connect With Me
 
+</p>
 <p align="center">
 
-<a href="https://github.com/hnimje14">
+<a href="https://github.com/ManishPunekar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harshalnimje/">
+<a href="https://www.linkedin.com/in/manish-punekar-3147a5383/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshalnimje1006@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manishpunekar22@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
 </p>
 
 ---
