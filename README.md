@@ -31,15 +31,18 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a Final-year Computer Engineering student with a strong interest in Artificial Intelligence and Machine Learning. I enjoy developing scalable AI-powered applications, learning modern technologies, and contributing to projects that solve real-world problems.
+## 👨‍💻 About Me
 
-### Interests
+I'm a Computer Engineering student passionate about designing intelligent software and transforming ideas into AI-powered solutions. I enjoy building machine learning applications, exploring emerging AI technologies, and continuously improving my skills through hands-on projects and real-world problem solving.
+
+### 🎯 Areas of Interest
 
 - 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning & Computer Vision
-- 💬 NLP & Generative AI
-- ⚡ Backend Development (FastAPI & Flask)
-- 🌍 Open Source
+- 🧠 Deep Learning, Computer Vision & Neural Networks
+- 💬 Generative AI, LLMs & NLP
+- ⚡ AI Backend Development (FastAPI & Flask)
+- 📊 Data Science & Predictive Analytics
+- 🔍 Research, Experimentation & Open Source
 
 </td>
 
