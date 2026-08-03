@@ -445,29 +445,26 @@ open_to:
 <p align="center">
 
 ---
+---
 
-<h2 align="center">💜 Thanks for Visiting!</h2>
+<div align="center">
 
-<p align="center">
+```bash
+$ whoami
 
-Building intelligent AI systems that solve real-world problems.
+Manish Punekar
 
-</p>
+AI Engineer
 
-<p align="center">
+$ status
 
-<b>AI • Machine Learning • Generative AI • Open Source</b>
+✔ Learning
+✔ Building
+✔ Innovating
 
-</p>
+$ echo "Thanks for visiting!"
+```
 
-<p align="center">
+⭐ Happy Coding!
 
-⭐ Feel free to explore my projects, connect with me, or collaborate on something exciting.
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,50:7C3AED,100:9333EA&section=footer"/>
-
-</p>
+</div>
