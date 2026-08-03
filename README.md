@@ -468,5 +468,5 @@ Machine learning model for predicting customer churn and generating risk scores 
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-4f6f1f6e-d0d0-48d2-b74b-6a1cb9d7a64d.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212750028-0aba2f84-1f6d-43d2-8bb9-9d4d66c779d4.gif" width="100%">
 </p>
