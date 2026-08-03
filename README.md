@@ -48,7 +48,7 @@ I'm a Computer Engineering student passionate about designing intelligent softwa
 
 <td width="40%" align="center">
 
-<img src="./assets/animation.mp4" width="350"/>
+<img src="./assets/Untitled file.gif" width="350"/>
 
 </td>
 </tr>
