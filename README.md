@@ -45,7 +45,7 @@ I'm a Final-year Computer Engineering student with a strong interest in Artifici
 
 <td width="40%" align="center">
 
-<img src="./assets/Coder Coding.gif" width="350"/>
+<img src="./assets/animation.mp4" width="350"/>
 
 </td>
 </tr>
