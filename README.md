@@ -453,15 +453,6 @@ Machine learning model for predicting customer churn and generating risk scores 
 
 </p>
 
-<h1 align="center">Manish Punekar</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Building+Production+Ready+AI+Applications"
-    alt="Typing SVG"
-  />
-</p>
-
 <p align="center">
   <a href="https://github.com/ManishPunekar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
