@@ -393,32 +393,52 @@ Machine learning model for predicting customer churn and generating risk scores 
 
 # 🎯 Current Focus
 
-```yaml
-learning:
-  - Advanced Deep Learning
-  - Hugging Face
-  - LangChain
-  - Docker
-  - MLOps
+<table>
+<tr>
+<td width="50%">
 
-building:
-  - AI Resume Screening ATS
-  - AI Portfolio
-  - Intelligent AI Applications
+### 🚀 Building
 
-exploring:
-  - LLMs
-  - Multi-Agent Systems
-  - Computer Vision
+- 🤖 AI Resume Screening & ATS
+- 🧠 Multi-Agent AI Systems
+- ⚡ Production-Ready AI Applications
 
-open_to:
-  - AI Engineer Internships
-  - Open Source Collaboration
-  - Research Opportunities
-```
+</td>
 
----
+<td width="50%">
 
+### 📚 Learning
+
+- 🧠 Advanced Deep Learning
+- 🤗 Hugging Face
+- 🔗 LangChain
+- 🐳 Docker & MLOps
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🔬 Exploring
+
+- 💬 Large Language Models (LLMs)
+- 👁️ Computer Vision
+- 🤖 AI Agents
+
+</td>
+
+<td>
+
+### 🤝 Open To
+
+- 💼 AI Engineer Internships
+- 🌍 Open Source
+- 🔬 Research Collaboration
+
+</td>
+</tr>
+</table>
 # 🔥 Contribution Streak
 
 <p align="center">
