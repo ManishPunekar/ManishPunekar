@@ -467,18 +467,6 @@ Machine learning model for predicting customer churn and generating risk scores 
 </a>
 </p>
 
----
-
-<div align="center">
-
-## 💜 Thanks for Visiting!
-
-Building intelligent AI systems that solve real-world problems.
-
-**AI Engineer • Machine Learning • Generative AI**
-
-⭐ Open to collaborations, internships, and open source.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!+🚀;See+you+again!+💜" />
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-4f6f1f6e-d0d0-48d2-b74b-6a1cb9d7a64d.gif" width="100%">
+</p>
