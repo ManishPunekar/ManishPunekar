@@ -471,32 +471,17 @@ Machine learning model for predicting customer churn and generating risk scores 
 
 <p align="center">
 
-✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
+```text
+01001101 01000001 01001110 01001001 01010011 01001000
 
-</p>
+███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
+████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
+██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
 
-<h2 align="center">💜 Thanks for Visiting!</h2>
-
-<p align="center">
-
-Building intelligent AI systems that solve real-world problems.
-
-</p>
-
-<p align="center">
-
-<b>AI Engineer • Machine Learning • Generative AI</b>
-
-</p>
-
-<p align="center">
-
-⭐ Open to collaborations, internships, and exciting AI projects.
-
-</p>
-
-<p align="center">
-
-<sub>Keep Learning • Keep Building • Keep Innovating 🚀</sub>
+        AI • Machine Learning • Generative AI
+```
 
 </p>
