@@ -451,22 +451,52 @@ Machine learning model for predicting customer churn and generating risk scores 
 
 # 📬 Connect With Me
 
-</p>
 <p align="center">
 
-<a href="https://github.com/ManishPunekar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ManishPunekar" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/manish-punekar-3147a5383/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/manish-punekar-3147a5383/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manishpunekar22@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<a href="mailto:manishpunekar22@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+</p>
+
+<h2 align="center">💜 Thanks for Visiting!</h2>
+
+<p align="center">
+
+Building intelligent AI systems that solve real-world problems.
+
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750028-0aba2f84-1f6d-43d2-8bb9-9d4d66c779d4.gif" width="100%">
+
+<b>AI Engineer • Machine Learning • Generative AI</b>
+
+</p>
+
+<p align="center">
+
+⭐ Open to collaborations, internships, and exciting AI projects.
+
+</p>
+
+<p align="center">
+
+<sub>Keep Learning • Keep Building • Keep Innovating 🚀</sub>
+
 </p>
