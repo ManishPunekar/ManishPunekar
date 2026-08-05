@@ -321,7 +321,7 @@ AI-powered Applicant Tracking System that ranks resumes against job descriptions
 `Python` `Flask` `Scikit-Learn` `NLP` `TF-IDF`
 
 <p>
-<a href="https://github.com/hnimje14/ai-resume-screening-ats">
+<a href="https://github.com/AI-Resume-Screening-ATS-Scoring-System/Ai--resume-screening-ATS">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
