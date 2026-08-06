@@ -379,7 +379,7 @@ Machine learning model for predicting customer churn and generating risk scores 
 `Python` `Scikit-Learn` `Pandas` `Machine Learning`
 
 <p>
-<a href="https://github.com/hnimje14/customer-churn-prediction-risk-scoring-system">
+<a href="https://github.com/AI-Resume-Screening-ATS-Scoring-System/customer-churn-prediction">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
